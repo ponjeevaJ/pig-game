@@ -103,7 +103,7 @@ button3.addEventListener('click',function(){
 // }
 
 // else{
-//     console.log("enter the value")
+//    console.log("enter the value")
 // }
 // });
  button1.addEventListener('click',function(){
