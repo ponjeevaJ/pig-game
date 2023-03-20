@@ -89,13 +89,11 @@ button3.addEventListener('click',function(){
            b=0;
            store1.textContent=0;
      }
-     if(e>=45){
-        document.querySelector('.wing').textContent="player 2 win"
-        
-        
+     if(e>=40){
+        document.querySelector('.wing').textContent="player 2 win";  
     }
-    else if(d>=45){
-        document.querySelector('.wing').textContent="player 1 win"
+    else if(d>=40){
+        document.querySelector('.wing').textContent="player 1 win";
     }
     die.classList.add('center1');
     })
