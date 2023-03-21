@@ -201,3 +201,47 @@ button{
     top: 50%;
     left: 115%;
 }
+
+
+.timer{
+    border: 4px solid;
+    position: absolute;
+    top: 60px;
+    right: 45%;
+    width: 200px;
+    height: 50px;
+    /* margin-top: 100px; */
+}
+.time_diaplay{
+    /* padding: 5px; */
+    font-size: 45px;
+    letter-spacing: 4px;
+}
+.time_slot_container{
+    position: absolute;
+    /* border: 3px solid; */
+    width: 300px;
+    height: 150px;
+    top: 40%;
+    margin: 15px;
+}
+.heading
+{
+    font-size: 25px;
+    letter-spacing: 2;
+}
+.num{
+    margin-top: 20px;
+}
+.start{
+    margin-top: 10px;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    
+}
